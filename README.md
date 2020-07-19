@@ -30,6 +30,7 @@ Web App for creating fast and stylish portfolios..
 Go to the [live site](https://capos.netlify.app/) and click on the "Let's Build a Portfolio" Button.
 
 Fill out the information and it will give you a link to view and share.
+
 <img src="./Snapshot-03.jpg" width="500" />
 
 
