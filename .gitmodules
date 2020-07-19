@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/abimsedhain/portfolio_designer.git
+[submodule "server"]
+	path = server
+	url = https://github.com/asimsedhain/portfolio_designer_node.git
