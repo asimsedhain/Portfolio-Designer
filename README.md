@@ -6,6 +6,12 @@ Portfolio Designer
 	<a href="https://capos.netlify.app/">	
 		<img align="center" src="https://api.netlify.com/api/v1/badges/3d4f7024-efb0-4e67-8baa-577fe9a3eabb/deploy-status" />
 	</a>
+	<a href="https://github.com/asimsedhain/portfolio_designer_node/actions?query=workflow%3ACI">
+		<img align="center" src="https://github.com/asimsedhain/portfolio_designer_node/workflows/CI/badge.svg" />
+	</a>
+	<a href="https://github.com/asimsedhain/portfolio_designer_node/actions?query=workflow%3ACD">
+		<img align="center" src="https://github.com/asimsedhain/portfolio_designer_node/workflows/CD/badge.svg" />
+	</a>
 </p>
                                                               
 <p align="center">
@@ -19,10 +25,11 @@ Web App for creating fast and stylish portfolios..
 <img src="./Snapshot-02.jpg" width="500" style="display:inline"/>
 </div>
 ## How it works
+
 Go to the [live site](https://capos.netlify.app/) and click on the "Let's Build a Portfolio" Button.
 
 Fill out the information and it will give you a link to view and share.
-![Final Page](./Snapshot-03.jpg)
+<img src="./Snapshot-03.jpg" width="500" />
 
 
 ## Local Demo
@@ -43,3 +50,10 @@ Our web app will allow for specific tailored portfolio for each job and occupati
 
 
 ## Project Status: Work in Progress
+
+
+## TODO
+- [x] User Authentication
+- [ ] Downloading portfolio
+- [ ] Dashboard
+- [ ] Portfolio Analytics
