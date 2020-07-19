@@ -24,6 +24,7 @@ Web App for creating fast and stylish portfolios..
 <img src="./Snapshot-01.jpg" width="500" style="display:inline"/>
 <img src="./Snapshot-02.jpg" width="500" style="display:inline"/>
 </div>
+
 ## How it works
 
 Go to the [live site](https://capos.netlify.app/) and click on the "Let's Build a Portfolio" Button.
